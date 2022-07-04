@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "2_docker_sql"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.4.3"
+SQLAlchemy = "^1.4.39"
+psycopg2-binary = "^2.9.3"
+pyarrow = "^8.0.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

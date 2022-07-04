@@ -11,6 +11,7 @@
 **__pycache__/
 .history
 **/ny_taxi_postgres_data/*
+**/data_pgadmin
 serving_dir
 *.csv
 .ipynb_checkpoints/
